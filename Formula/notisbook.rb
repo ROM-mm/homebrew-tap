@@ -3,8 +3,8 @@ class Notisbook < Formula
 
   desc "Local notebook UI and Spark environment manager"
   homepage "https://github.com/ROM-mm/Notisbook"
-  url "https://github.com/ROM-mm/Notisbook/releases/download/v0.3.0/notisbook-0.3.0.tar.gz"
-  sha256 "04f2ace5415f07881e4a6aba8e70b50cfc7c5849e122687b020cfa4c81bb76f9"
+  url "https://github.com/ROM-mm/Notisbook/releases/download/v0.4.0/notisbook-0.4.0.tar.gz"
+  sha256 "095828d121f83831a559d8b4f45732a8c95c4f775b7a2efdf0557190f89c8139"
   license "Apache-2.0"
 
   depends_on "pkgconf" => :build
